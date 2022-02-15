@@ -17,6 +17,8 @@ These endpoints might help you:
 - Get a Candy Machine's NFTs: https://docs.blockchainapi.com/#operation/solanaGetAllNFTsFromCandyMachine
 - List all Candy Machines: https://docs.blockchainapi.com/#operation/solanaListAllCandyMachines
 
+You can find the candy machine 
+
 ## Who We Are
 
 We're blockchainapi.com. You check out our docs here: docs.blockchainapi.com
