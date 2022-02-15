@@ -17,7 +17,11 @@ These endpoints might help you:
 - Get a Candy Machine's NFTs: https://docs.blockchainapi.com/#operation/solanaGetAllNFTsFromCandyMachine
 - List all Candy Machines: https://docs.blockchainapi.com/#operation/solanaListAllCandyMachines
 
-You can find the candy machine 
+You can find the candy machine IDs for collections in the file in this repository titled `all_collections_with_escrow_data.json`. 
+
+You get an updated version of this data with this Magic Eden API endpoint: https://api-mainnet.magiceden.io/all_collections_with_escrow_data
+
+Thus, you can help by getting the candy machine IDs of a given collection, along with the collection's name, and using our endpoints to pull its NFTs. We will do this too at some point, but you can also help here to move it along.
 
 ## Who We Are
 
