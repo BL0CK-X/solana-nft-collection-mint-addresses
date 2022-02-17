@@ -6,6 +6,10 @@ This is a public repository containing the mint addresses of popular collections
 
 This maps a collection name (e.g., `solana_money_boys`) to a list of mint addresses (e.g., `66MZJWWM7ucWay8R2BzYgZVQHo3X2ZviYvCi4BCr42u6`).
 
+## How to Use
+
+Pull and load the raw JSON file from this link: https://raw.githubusercontent.com/BL0CK-X/solana-nft-collection-mint-addresses/main/collections.json
+
 ## How to Help
 
 You can help by providing the list of mint addresses for other collections on Solana to the `collections.json` file.
